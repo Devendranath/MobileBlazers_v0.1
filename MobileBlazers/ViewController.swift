@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // Declaration of Properties
     let uiVC = UploadImagesViewController()
     
     override func viewDidLoad() {
@@ -19,7 +20,11 @@ class ViewController: UIViewController {
     }
     
     func displayUIUI() {
-     print("Uploading images")
+        print("Uploading images")
+    }
+    
+    func sayHello() {
+        
     }
 }
 

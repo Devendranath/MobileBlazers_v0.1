@@ -16,6 +16,9 @@ class UploadImagesViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    func uploadImage() {
+        print("I am uploading images from this app.")
+    }
 
     /*
     // MARK: - Navigation
