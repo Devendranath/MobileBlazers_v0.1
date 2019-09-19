@@ -12,6 +12,7 @@
 		18836FC723331AC000459686 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18836FC523331AC000459686 /* Main.storyboard */; };
 		18836FC923331AC200459686 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18836FC823331AC200459686 /* Assets.xcassets */; };
 		18836FCC23331AC200459686 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18836FCA23331AC200459686 /* LaunchScreen.storyboard */; };
+		18836FD423331B6500459686 /* UploadImagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18836FD323331B6500459686 /* UploadImagesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		18836FC823331AC200459686 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18836FCB23331AC200459686 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18836FCD23331AC200459686 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18836FD323331B6500459686 /* UploadImagesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadImagesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				18836FC123331AC000459686 /* AppDelegate.swift */,
 				18836FC323331AC000459686 /* ViewController.swift */,
+				18836FD323331B6500459686 /* UploadImagesViewController.swift */,
 				18836FC523331AC000459686 /* Main.storyboard */,
 				18836FC823331AC200459686 /* Assets.xcassets */,
 				18836FCA23331AC200459686 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				18836FC423331AC000459686 /* ViewController.swift in Sources */,
 				18836FC223331AC000459686 /* AppDelegate.swift in Sources */,
+				18836FD423331B6500459686 /* UploadImagesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
