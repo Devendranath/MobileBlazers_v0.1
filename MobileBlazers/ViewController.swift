@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    //sdfsf
     // Declaration of Properties
     let uiVC = UploadImagesViewController()
     
@@ -25,6 +27,10 @@ class ViewController: UIViewController {
     
     func sayHello() {
         
+    }
+    
+    func sayBye() {
+        print("Bye Bye")
     }
 }
 
